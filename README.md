@@ -1,5 +1,6 @@
 # Customer_Analytics
-
+![](Cover_photo.jpg)
+___________________
 ## Problem Statement
 In today's digital landscape, the abundance of data is transforming the way businesses operate, leading to a greater demand for data analysts and business analytics professionals. While large companies have the resources to hire specialized experts to analyze their data, smaller and medium-sized organizations often struggle to capitalize on the benefits of analytics due to cost constraints and limited access to sophisticated tools. To address this issue, I have focused on leveraging the power of Microsoft Excel, a widely accessible and cost-effective solution. By implementing a few simple techniques, it is possible to create compatible dashboards, as exemplified by my work on a customer analytics dataset.
 
@@ -27,7 +28,7 @@ In terms of data modeling, given the simplicity of the tabular data, I opted for
 
 ## Dashboard
 
-![](Dashboard.png)
+![](Dashboard2.png)
 -------------------
   In this dashboard, I incorporated three slicers: one for gender, another for years, and the third for purpose type. These slicers allow us to filter the data and save time. Although Excel has limited visuals compared to other visualization tools, I made use of color themes to maintain an attractive dashboard. Additionally, I included a gauge parameter to indicate the Net Promoter Score, which serves as a visual representation.
   
